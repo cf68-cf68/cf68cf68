@@ -1,0 +1,6 @@
+#
+# robots.txt 
+#
+User-agent: *
+Allow: /
+Sitemap: https://cf68club.netlify.app/sitemap.xml
