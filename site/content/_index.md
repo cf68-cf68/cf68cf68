@@ -18,6 +18,19 @@ blurb:
 
     CF68 ra mắt đầu tiên tại Trung Quốc, sau đó phát triển và lan sang Đài Loan và bây giờ là Việt Nam. Trong thời gian tới, CF68 dự kiến ​​sẽ đầu tư mạnh vào 4 thị trường Việt Nam, Thái Lan, Ấn Độ và cả Indonesia.
 intro:
+  heading: CF68 Game  giới thiệu
+  text: Các trò chơi CF68 được xếp hạng hàng đầu và được yêu thích nhất. Trong số
+    4 danh hiệu của CF68
+products:
+  - image: img/dainaothiencung.png
+    text: Đại náo thiên cung cf68
+  - image: img/ban-ca.png
+    text: CF68 bắn cá
+  - text: Roulette Trực Tuyến cf68
+    image: img/roulette-truc-tuyen.png
+  - text: Baccarat Trực Tuyến cf68
+    image: img/baccarat-truc-tuyen.png
+values:
   heading: Làm thế nào để tham gia CF68 Club?
   text: >-
     Để tham gia vào cộng đồng người chơi khổng lồ, bạn cần hoàn thành các bước
@@ -35,28 +48,4 @@ intro:
     4.Nạp tiền để giành chiến thắng nhiều nhất có thể.
 
     Vì vậy, chỉ trong vài bước, bạn đang tham gia một cộng đồng trò chơi hấp dẫn.
-products:
-  - image: img/illustrations-tutorials.svg
-    text: 1.Sau khi tải game CF68 thành công, bạn vào game chọn game yêu thích bằng
-      số điện thoại hoặc Facebook để đăng ký.
-  - image: img/illustrations-tutorials.svg
-    text: 2.Sau đó, có liên kết ngân hàng để chơi trò chơi lần đầu tiên để yêu cầu
-      chiết khấu.
-  - text: 3.Hãy cẩn thận không tạo nhiều tài khoản. Nếu bạn làm vậy, bạn có thể cần
-      xác minh danh tính của mình.Chọn một trò chơi và tận hưởng.
-    image: img/illustrations-tutorials.svg
-  - text: >-
-      4.Nạp tiền để giành chiến thắng nhiều nhất có thể.
-
-      Vì vậy, chỉ trong vài bước, bạn đang tham gia một cộng đồng trò chơi hấp dẫn.
-    image: img/illustrations-tutorials.svg
-values:
-  heading: nguồn gốc của CF68
-  text: >-
-    Tuy gia nhập thị trường muộn hơn các cổng game bài khác nhưng chắc chắn
-    không có cổng game bài nào hoành tráng và sôi động như CF68 trong thời điểm
-    đầu năm mới này. .
-
-
-    Tương ứng với đó, các tân binh trong làng game đã tung ra nhiều hoạt động hấp dẫn như Tân Thủ, cũng như hàng loạt chương trình khuyến mãi nạp thẻ lớn chưa từng có. Các chuyên gia hoan nghênh màn ra mắt ấn tượng vì mức độ tương tác của người chơi rất cao.
 ---
