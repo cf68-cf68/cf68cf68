@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://cf68club.netlify.app/"
 languageCode = "vi-VN"
 languageLang = "vi"
 title = "CF68 Club"
