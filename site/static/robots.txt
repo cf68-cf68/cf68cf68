@@ -3,4 +3,4 @@
 #
 User-agent: *
 Allow: /
-Sitemap: https://cf68club.netlify.app/sitemap.xml
+Sitemap: https://cf68game.netlify.app/sitemap.xml
